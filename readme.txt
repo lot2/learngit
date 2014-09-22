@@ -1,2 +1,2 @@
-This is a git.
-Git is a good tool.
+This is a new git ~~.
+Git is a good tool very much.
